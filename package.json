@@ -1,0 +1,9 @@
+{
+  "name": "parley",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Parley private messenger prototype",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
